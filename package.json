@@ -1,6 +1,6 @@
 {
   "name": "@typecollections/types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type definition files of JS libraries",
   "main": "index.js",
   "scripts": {
