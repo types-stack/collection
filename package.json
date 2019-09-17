@@ -1,0 +1,26 @@
+{
+  "name": "@typecollections/types",
+  "version": "1.0.0",
+  "description": "Type definition files of JS libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/types-stack/types.git"
+  },
+  "keywords": [
+    "types",
+    "typescript",
+    "type",
+    "definition",
+    "javascript"
+  ],
+  "author": "Sumit Parakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/types-stack/types/issues"
+  },
+  "homepage": "https://github.com/types-stack/types#readme"
+}
