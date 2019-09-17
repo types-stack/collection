@@ -1,0 +1,3 @@
+[submodule "react-image-magnify"]
+	path = react-image-magnify
+	url = https://github.com/types-stack/react-image-magnify
